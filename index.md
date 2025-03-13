@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Alngo Blog!
 ---
+# Wow
+Such empty!
 
